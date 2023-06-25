@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  padding: 0;
+  @import './global-variables.module.scss';
+  @import './src/layout.scss';
+}
+:root{
+  --test-color:skyblue;
+  --el-color-primary:green;
+}

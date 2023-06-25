@@ -1,0 +1,10 @@
+.pt3--form-container{
+  box-sizing: border-box;
+  .pt3--form{
+    overflow: auto;
+  }
+  .pt3--form-item-box{
+    box-sizing: border-box;
+    display: grid;
+  }
+}

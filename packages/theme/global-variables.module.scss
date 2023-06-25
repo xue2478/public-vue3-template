@@ -1,0 +1,32 @@
+// 该文件中的变量是全局变量，在css文件和vue组件中可以直接使用
+$mainBg:#fff; //网页主背景色
+$mainColor: #1C6AFF; // 网站主题色
+
+$bodyBg:#fff;
+// 侧边栏
+// $menuBg: #304156; // 菜单背景颜色
+$sideBg:#002881; //侧边栏颜色
+$menuBg:transparent; // 菜单背景颜色
+$menuTextColor: #98AAE7; // 菜单文字颜色
+// $menuActiveTextColor: #fff; // 已选中菜单文字颜色
+$menuActiveTextColor: red; // 已选中菜单文字颜色
+$menuActiveBg: #1C6AFF; // 已选中菜单背景颜色
+$menuHover: rgba(255,255,255,.8); // 鼠标经过菜单时的背景颜色
+$subMenuBg: transparent; // 子菜单背景颜色
+$subMenuHover: rgba(79, 152, 206 , .34) ; // 鼠标经过子菜单时的背景颜色
+$collapseMenuActiveBg: transparent; // 菜单宽度折叠后，已选中菜单的背景颜色
+$collapseMenuActiveColor: $menuActiveTextColor; // 菜单宽度折叠后，已选中菜单的文字颜色
+$collapseMenuActiveBorderColor: $menuActiveTextColor; // 菜单宽度折叠后，已选中菜单的边框颜色
+$collapseMenuActiveBorderWidth: 2px; // 菜单宽度折叠后，已选中菜单的边框宽度
+$arrowColor: #286fad; // 展开/收起箭头颜色
+$arrowBGColor: #286fad; // 展开/收起箭头背景颜色
+$horizontalMenuHeight: 40px; // 菜单栏水平排列时候的高度
+
+// tabs菜单栏
+$tabBg:#EDEFF3;
+$tabTextColor:#4B4C57; //tabs 字体颜色
+$tabActiveBg:#fff;
+$tabsActiveTextColor:$mainColor;
+
+$text-regular-color: #606266; //页面字体
+

@@ -1,0 +1,13 @@
+.pt3-wrapper{
+ $leftW:250px;
+  background: $bodyBg;
+  height: 100vh;
+  display: flex;
+  &>.pt3-left{
+    background: $sideBg;
+    width: $leftW;
+  }
+  &>.pt3-main{
+    flex: 1;
+  }
+}
